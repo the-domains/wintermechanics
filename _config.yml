@@ -1,0 +1,28 @@
+name: WinterMechanics
+favicon: null
+layout_spectrum: 0.8985067426692694
+typography_spectrum: 0.10967587353661656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5056583171244711
+  lightness: 0.8230790253728628
+  saturation: 0.16946716676466167
+  rhythmicContrast: 0.6643811950925738
+purpose: []
